@@ -62,7 +62,7 @@ To see how you can add code snippets, see below:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Add your name here](https://qr-code1.netlify.app/)
 
 
 
