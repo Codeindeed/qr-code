@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -18,11 +18,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
+
 i started building frontend mentors designs challenge to grow my css and html skills
+
 ### Screenshot
 
 ![](./screenshot.jpg)
-
 
 ### Links
 
@@ -30,7 +31,9 @@ i started building frontend mentors designs challenge to grow my css and html sk
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
+
 i started by marking the page up forwarded to styling the page chanllenge was centering the div but i'm good with it now
+
 ### Built with
 
 - Semantic HTML5 markup
@@ -38,14 +41,11 @@ i started by marking the page up forwarded to styling the page chanllenge was ce
 - CSS Grid
 - Desktop-first workflow
 
-
-
 ### What I learned
 
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
 To see how you can add code snippets, see below:
-
 
 ```css
 .proud-of-this-css {
@@ -53,18 +53,14 @@ To see how you can add code snippets, see below:
 }
 ```
 
-
-
 ### Useful resources
 
-- [Example resource 1](https://css-tricks.com/almanac/properties/p/place-content/) - This helped me to understand the reason behind place content.  I  liked this pattern and will use it going forward.
-
+- [Example resource 1](https://css-tricks.com/almanac/properties/p/place-content/) - This helped me to understand the reason behind place content. I liked this pattern and will use it going forward.
 
 ## Author
 
-- Website - [Add your name here](https://qr-code1.netlify.app/)
-
-
+- Website - [Alex Favour](https://qr-code1.netlify.app/)
 
 ## Acknowledgments
+
 just myself for now
